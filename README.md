@@ -2,7 +2,7 @@
 
 Sou Técnico de Telecomunicações no Instituto Federal Sul-Rio-Grandense e trabalhei como Monitor de Cálculo, Eletricidade e Eletrônica Digital e estagiário de telecomunicações na extinta Geração de Energia Elétrica do Estado. Posteriormente, trabalhei como estagiário na extinta "Companhia Estadual de Energia e Transmissão de Energia Elétrica" (CEEE-GT). Atualmente cursando Ciência da Computação na Universidade Federal de Pelotas, onde atuei como monitor na disciplina de Matemática Discreta, estagiário no Suporte Técnico da Universidade e em projetos de extensão voltados para pesquisas em Pensamento Computacional.
 
-Para mais informações sobre esses projetos, leia meu Currículo Lattes, disponível no painel esquerdo.
+Para mais informações, leia meu Currículo Lattes, disponível no painel esquerdo.
 
 ## Ferramentas que uso:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
